@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Monteserrant Regular ';
+}
+
+#barra-nav {
+    background-color: #006fff;
+}
+
+#collapse-icon {
+    color: white;
+    float: right;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+    background-color: #FF7A00;
+    size: 12px;
+}
+
+#saludo {
+    font-family: 'Monteserrant Regular ';
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#saludo-p {
+    font-family: 'Monteserrant Regular ';
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#sal {
+    float: left;
+    padding-left: 20px;
+}
+
+body {
+    background-color: #F6FAFF;
+}
+
+#solicitudes {
+    background-color: #FFFF;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#logo-mex {
+    height: 15px;
+    width: 20px;
+}
+
+.card-deck {
+    margin: 30px;
+}
+
+.card-title {
+    border-bottom: solid 1px #006fff;
+}
+
+.pais {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.pais li {
+    float: left;
+    display: inline;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.cerrado {
+    border: solid 1px gray;
+    padding: 0;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin: 1px;
+    border-radius: 4px;
+    font-size: 12px;
+}
